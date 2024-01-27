@@ -1,12 +1,12 @@
 {
-    "name": "torayld/super-swipebox",
+    "name": "torayld/photoswipe",
     "type": "library",
     "description": "Add lightbox with touchscreen compatibility",
     "keywords": [],
     "homepage": "https://github.com/Torayld/web-esheep/",
-    "authors": ["Retroguru","torayld"],
+    "authors": ["dimsemenov","torayld"],
     "support": {
-        "issues": "https://github.com/Torayld/super-swipebox/pulls"
+        "issues": "https://github.com/Torayld/photoswipe/pulls"
     },
     "license": "MIT license"
 }
