@@ -8,5 +8,18 @@
     "support": {
         "issues": "https://github.com/Torayld/photoswipe/pulls"
     },
-    "license": "MIT license"
+    "license": "MIT license",
+    "extra": {
+    "component": {
+      "scripts": [
+        "dist/photoswipe.esm.min.js",
+        "dist/photoswipe-lightbox.esm.min.js"
+      ],
+      "styles": [
+        "dist/photoswipe.css"
+      ],
+      "files": [
+        "dist/plugins/*.js"
+      ]
+    }
 }
