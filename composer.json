@@ -1,0 +1,12 @@
+{
+    "name": "torayld/super-swipebox",
+    "type": "library",
+    "description": "Add lightbox with touchscreen compatibility",
+    "keywords": [],
+    "homepage": "https://github.com/Torayld/web-esheep/",
+    "authors": ["Retroguru","torayld"],
+    "support": {
+        "issues": "https://github.com/Torayld/super-swipebox/pulls"
+    },
+    "license": "GNU GPL v3"
+}
